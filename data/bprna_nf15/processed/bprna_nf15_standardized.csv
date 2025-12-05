@@ -1,4 +1,4 @@
-rna_name,sequence,dot_bracket
+sequence_id,sequence,dot_bracket
 CP002582.1/3780440-3780356,UUAAUGAGAAUAAAUCAGGUUAUUAUGUUGGAUGUAAUAACUGGGCCAAUUUAUUGGCAACAGGAAUUAAACCUGUGGGACUAUA,.........[[[...[.((((((((((.....))))))))))..(((((....))))).(((((.......)))))..]..]]].
 CP001997.1/495019-495096,UCCUUACAAGAUCAGGCGGCUUUUAGUGCGGCCGGGCCUCUUUUGAGGCAGUGGGAUUUCAAGACUCGCGGGACUUAG,.......[[[..[.(((.((.....))...)))..(((((....))))).(((((.........)))))..].]]]..
 CP002028.1/1768652-1768573,AAAGCAUAAUGGAUCAGGUAGAACGGAAAAGUUUUACCGGGCUCUUAUGAGCAGCAGGAUUAUAAACCUGUGGGACCGUG,........[[[[..[.((((((((......))))))))..((((....)))).(((((........)))))..].]]]].
