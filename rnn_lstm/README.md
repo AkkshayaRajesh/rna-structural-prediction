@@ -25,3 +25,18 @@
 ├── train_lstm.py
 └── train_rnn.py
 ```
+
+### Installaiton and Execution
+
+Create a conda environment with all the required packages installed.
+
+```
+conda create -n rna-env python=3.10 pytorch torchvision torchaudio cpuonly -c pytorch -c conda-forge numpy pandas scikit-learn tqdm matplotlib -y
+conda activate rna-env
+```
+
+Execute single python file to load the dataset, train the two models and evaluate the models.
+```
+python run_all_experiments.py
+```
+
