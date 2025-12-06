@@ -28,7 +28,7 @@ project/
 │   ├── train_transformer.py
 │   └── train_transformer_weighted.py
 └── rna-structural-prediction-main.zip
-'''
+```text
 
 
 ## Folders
