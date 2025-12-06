@@ -26,12 +26,12 @@
 └── train_rnn.py
 ```
 
-### Installaiton and Execution
+### Installation and Execution
 
 Create a conda environment with all the required packages installed.
 
 ```
-conda create -n rna-env python=3.10 pytorch torchvision torchaudio cpuonly -c pytorch -c conda-forge numpy pandas scikit-learn tqdm matplotlib -y
+conda create -n rna-env python=3.10 pytorch torchvision torchaudio -c pytorch -c conda-forge numpy pandas scikit-learn tqdm -y
 conda activate rna-env
 ```
 
